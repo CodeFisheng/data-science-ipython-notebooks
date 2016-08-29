@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/kaggle.png">
 </p>
 
-## kaggle-and-business-analyses
+## kaggle-and-business-analyse
 
 IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and business analyses.
 
@@ -71,7 +71,7 @@ IPython Notebook(s) demonstrating scikit-learn functionality.
   <img src="http://i.imgur.com/ZhKXrKZ.png">
 </p>
 
-## deep-learning
+## deep-learning-functionality
 
 IPython Notebook(s) demonstrating deep learning functionality.
 
